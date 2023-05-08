@@ -1,4 +1,5 @@
 <?
+$PERM["mebindex.php"]["5"]="W";
 $PERM["lichnyy-kabinet-prodavtsa"]["10"]="X";
 $PERM["lichnyy-kabinet-prodavtsa"]["9"]="R";
 $PERM["lichnyy-kabinet-prodavtsa"]["*"]="D";
@@ -16,5 +17,4 @@ $PERM["services"]["5"]="W";
 $PERM["news"]["5"]="W";
 $PERM["contacts"]["5"]="W";
 $PERM["company"]["5"]="W";
-$PERM["index.php"]["5"]="W";
 ?>
